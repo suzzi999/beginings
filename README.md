@@ -1,4 +1,4 @@
-# beginings
+# algo4good
 - 👋 Hi, I’m @suzzi999
 - 👀 I’m interested in Yoga, pyschodietetics
 - 🌱 I’m currently learning SQL, Python
